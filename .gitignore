@@ -1,0 +1,11 @@
+.Rhistory
+.RData
+.RDataTmp
+.Rproj.user/
+.ipynb_checkpoints/
+__pycache__/
+.venv/
+.DS_Store
+results/generated/
+data/external/
+rsconnect/

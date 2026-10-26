@@ -1,0 +1,257 @@
+[
+  {
+    "file": ".gitignore",
+    "bytes": 135,
+    "sha256": "b38121a5b74d4dae9dce97c7ec22582f48c70c0c80a4f93a44853bcefae702e4"
+  },
+  {
+    "file": "app/app.R",
+    "bytes": 11958,
+    "sha256": "55de6d2275a63e5c771505e4c10a83e2838032bf004862cf744a74274b6d21f2"
+  },
+  {
+    "file": "app/Com2021_g.dbf",
+    "bytes": 2632450,
+    "sha256": "0b7f50160ea6957722467c4da14e5f6b69e375415e0c6d5c8d807ed6ba9214fb"
+  },
+  {
+    "file": "app/Com2021_g.prj",
+    "bytes": 400,
+    "sha256": "10a2674d7bc43a70df19daf98d0b1deb3f5222f03659e1b4d82b395c20177cb9"
+  },
+  {
+    "file": "app/Com2021_g.shp",
+    "bytes": 12704540,
+    "sha256": "39075451ea0fa5b04fb4f2b0828f557a5d2215501d157c6a2665fe0244335403"
+  },
+  {
+    "file": "app/Com2021_g.shx",
+    "bytes": 63332,
+    "sha256": "cfc7aa95e7d4fb47166f4899a4c321f86af5a9f2350aa593ff3a266f9e58a8d8"
+  },
+  {
+    "file": "app/dati_finali_clean.rds",
+    "bytes": 452213,
+    "sha256": "c32461226236ab647d393b9af5a18b1721b0fcdeb66f02ab4d3c2e98ae19cb55"
+  },
+  {
+    "file": "data/processed/components_2019.csv",
+    "bytes": 124449,
+    "sha256": "cbd587806494c352556667d64d8ac1495cb74f7b8502a809d4401457c6d08e89"
+  },
+  {
+    "file": "data/processed/components_2021.csv",
+    "bytes": 124449,
+    "sha256": "a03829abde87263a9efecbad0028d389530393e1ac1fbfe70a549045f7140042"
+  },
+  {
+    "file": "data/processed/reference_index_2019.csv",
+    "bytes": 38915,
+    "sha256": "1ea7676b0b05a39382b66e57e26866f456a8f6dad8a86b99f625e4e94afe79a3"
+  },
+  {
+    "file": "data/processed/reference_index_2021.csv",
+    "bytes": 38920,
+    "sha256": "1d14c887f328bdec8363a6884c087b8bf8cb96c52113f40ff44f030767627483"
+  },
+  {
+    "file": "DATA.md",
+    "bytes": 1668,
+    "sha256": "914c315e72d94ad1f2c631e2b0756593494d595520489146c63575697d552495"
+  },
+  {
+    "file": "README.md",
+    "bytes": 3542,
+    "sha256": "1e7ca24b669126f6f3799a3bb251dd0a4a40d6d43eda70691b6b665bfbc891a3"
+  },
+  {
+    "file": "REPRODUCIBILITY.md",
+    "bytes": 1887,
+    "sha256": "06b847f80db02ba713411083eaf1131602c7c5a7e89823479046e82b1ca98996"
+  },
+  {
+    "file": "requirements.txt",
+    "bytes": 30,
+    "sha256": "76fd9dd57e1080a3e32fd47743bc1f13d6c393f03a2b1c33560f63cfff9166e0"
+  },
+  {
+    "file": "research/INDICI 2019/autoencoder_indici_2019.ipynb",
+    "bytes": 10645,
+    "sha256": "ef6c5b62ff76f79eee3943ca98e95c72860ee35d1af37f5bba2260de49e9b241"
+  },
+  {
+    "file": "research/INDICI 2019/dataset_macroarea_ambientale_2019.xlsx",
+    "bytes": 106038,
+    "sha256": "d1de7aff18fdef0d58ecb436497118f00adc67c7e3913684233d14e9e1b68890"
+  },
+  {
+    "file": "research/INDICI 2019/dataset_macroarea_economica_2019.xlsx",
+    "bytes": 123830,
+    "sha256": "42c8e77196a0d12cb17eab19455ad574edcf0ef570593fc8a6f200ea6cb7d7c3"
+  },
+  {
+    "file": "research/INDICI 2019/dataset_macroarea_servizi_2019.xlsx",
+    "bytes": 116109,
+    "sha256": "0da6c2a06184d101bab7f325c7f5bfc3faf7f027ba222e2c4ca991e624372136"
+  },
+  {
+    "file": "research/INDICI 2019/dataset_macroarea_socio_2019.xlsx",
+    "bytes": 152294,
+    "sha256": "5f43944209e810b825e09c1b7ee4d422a53d10ce8b71f12019e729376edc19cf"
+  },
+  {
+    "file": "research/INDICI 2021/autoencoder_indici_2021.ipynb",
+    "bytes": 7008,
+    "sha256": "547d89105df26b4d17ce77ab094cc7097602cbf89670e6c59051fed62e0358d6"
+  },
+  {
+    "file": "research/INDICI 2021/dataset_macroarea_ambientale_2021.xlsx",
+    "bytes": 84413,
+    "sha256": "a426ccf5b40b4e0856a81d8edd21f03c4a7e37a1f3a907e37a393c765b81a5fb"
+  },
+  {
+    "file": "research/INDICI 2021/dataset_macroarea_economica_2021.xlsx",
+    "bytes": 144511,
+    "sha256": "8b209851b652a89fa75aefbbbfe8f7a2c10efe9f326caaf220c5cc1d470bd9d3"
+  },
+  {
+    "file": "research/INDICI 2021/dataset_macroarea_servizi_2021.xlsx",
+    "bytes": 115131,
+    "sha256": "68df865b86e691173541eaaeffa95a146a96a15dbf88387486774613890b14f2"
+  },
+  {
+    "file": "research/INDICI 2021/dataset_macroarea_socio_2021.xlsx",
+    "bytes": 152079,
+    "sha256": "9f049c2459376f86f8a3c21cf4ce227b8c161dea8b021d9ce6f337b4ed2f0d5b"
+  },
+  {
+    "file": "research/R/2019/analisi_indici_autoencoder_2019.R",
+    "bytes": 35816,
+    "sha256": "d60d7f44d1eb9550d79b175ac8bb7b679ce5f1eaf1e6922d7165e50191e0c36f"
+  },
+  {
+    "file": "research/R/2019/calcolo_indice_finale_2019.R",
+    "bytes": 3309,
+    "sha256": "c7088519a9c7e1bdb49ef56342049af889f37a1ca9928758ad14b02a11122048"
+  },
+  {
+    "file": "research/R/2019/calcolo_indice_macroarea_mem_con_componenti_2019.R",
+    "bytes": 8230,
+    "sha256": "9358095282f715a74c6d15282cd92f6bf510be755bb84c5c1acaf9a226f66090"
+  },
+  {
+    "file": "research/R/2019/calcolo_indice_macroarea_ranking_2019.R",
+    "bytes": 28085,
+    "sha256": "61cc4de760fbbc124c52b93d0c6989ef74a6519a4052f484c861c728774fcc2c"
+  },
+  {
+    "file": "research/R/2019/divisione_dataset_macroaree_2019.R",
+    "bytes": 15356,
+    "sha256": "8613dbc5132bc2b35d17e38dbacf3a98ffc589b14863fd014e906b93b0a17f8f"
+  },
+  {
+    "file": "research/R/2019/kriging_qualita_aria_definitivo_2019.R",
+    "bytes": 7206,
+    "sha256": "09b1f4bab9c3f4949c4d12e3bd61da53a839a0c140267b3d4cee6a6f11714cb6"
+  },
+  {
+    "file": "research/R/2019/sensitivity_analyisis_2019.R",
+    "bytes": 8451,
+    "sha256": "95dfe5dcdf33c389f2e6bd971d0a16727e20d008088d0484a37a451b87bdafb2"
+  },
+  {
+    "file": "research/R/2019/spatial_pca_2019.R",
+    "bytes": 7177,
+    "sha256": "63dfa4f228dc1999d1773f1cd6324fc0ab4dab69a476b792e351b810b49c3e98"
+  },
+  {
+    "file": "research/R/2021/calcolo_indice_confrontabilita_2021.R",
+    "bytes": 30933,
+    "sha256": "429423693a599df55a7b536aa994e23b6da7ea820ef8fbdcdb0bbc8fff7a8d7a"
+  },
+  {
+    "file": "research/R/2021/calcolo_indice_finale_2021.R",
+    "bytes": 3288,
+    "sha256": "cfbabf4da35775e80c14429f33115562e327ce679bfbcf047a31f5b4d8f12931"
+  },
+  {
+    "file": "research/R/2021/calcolo_indice_macroarea_mem_con_componenti_2021.R",
+    "bytes": 8230,
+    "sha256": "096a094834310e4d253fc6be1648c41094061f45a2a4fc69c6c2dd76ad7c3e9b"
+  },
+  {
+    "file": "research/R/2021/calcolo_indice_macroarea_ranking_2021.R",
+    "bytes": 7181,
+    "sha256": "c6ffa4acfe9cbc38cdabf5e6046b918962aa5558865633cc909521429ad82e8b"
+  },
+  {
+    "file": "research/R/2021/divisione_dataset_macroaree_2021.R",
+    "bytes": 15296,
+    "sha256": "aaa099b2295afa28603ad8cf80b5d1f9952d063447a605f9c621468e773ef1d4"
+  },
+  {
+    "file": "research/R/2021/kriging_qualita_aria_definitivo_2021.R",
+    "bytes": 7113,
+    "sha256": "a7728d425debb0bb01b0be6229e8ac68c41fac4fbffe9e5b731ef905359fd313"
+  },
+  {
+    "file": "results/fragility_2019.png",
+    "bytes": 657054,
+    "sha256": "5f02266605c46a3f00a86622f861991771c7d7e6b99ba1907c6837826734b6eb"
+  },
+  {
+    "file": "results/fragility_2021.png",
+    "bytes": 657030,
+    "sha256": "46320053f350507803968e809137efab2f5d1231038e8794b148b1a7d56e670b"
+  },
+  {
+    "file": "results/fragility_deciles_2019.png",
+    "bytes": 673680,
+    "sha256": "de060ace21326bdf54fba90574d6534303b7adc3d1067f1c2633d6bc9ad93c60"
+  },
+  {
+    "file": "results/fragility_deciles_2021.png",
+    "bytes": 678847,
+    "sha256": "c0c4024483a4e8428061c3a0e84b894cd8674dd613c9edabeff7b5940a9c6c48"
+  },
+  {
+    "file": "results/method_comparison/ambientale_dettaglio.xlsx",
+    "bytes": 122696,
+    "sha256": "f2b49577d42b2936ee70706f145ed80152df0a41916681771167b5db31f51262"
+  },
+  {
+    "file": "results/method_comparison/economico_dettaglio.xlsx",
+    "bytes": 121986,
+    "sha256": "ea6afe2cbc4faedeabc5c6b397f354e1e65dff162cac87b88e19f4ef9134f7dd"
+  },
+  {
+    "file": "results/method_comparison/servizi_dettaglio.xlsx",
+    "bytes": 121182,
+    "sha256": "4593bf2197ef60659b406cb0b10d5a0da41f7bd592deac9fdb41f9515d75811f"
+  },
+  {
+    "file": "results/method_comparison/socio_dettaglio.xlsx",
+    "bytes": 121534,
+    "sha256": "4ab846eb561d7ac9a66308e94163880e6c3b108d4912823589b9619b03f01863"
+  },
+  {
+    "file": "results/method_comparison/summary_confronto.xlsx",
+    "bytes": 5306,
+    "sha256": "b41fa6fbf01ed67d485124ad9e57c36f5308c97f548d07c9885f0fd36e2cad53"
+  },
+  {
+    "file": "results/shap_summary_ambientale.png",
+    "bytes": 50536,
+    "sha256": "d134cc26fd247953391373957feaa576d2ff93fd43b0bb32fd53de6c81a10e5c"
+  },
+  {
+    "file": "results/shap_summary_economico.png",
+    "bytes": 32440,
+    "sha256": "d0ddab9d4c0abbb19df814d15a808363335d521f44d257831ea320c3e7d8bef8"
+  },
+  {
+    "file": "scripts/rebuild_index.py",
+    "bytes": 2299,
+    "sha256": "6217c03242f4c98e25354f9068a8796b6aea04a61f49546e17b0805688ff135b"
+  }
+]
